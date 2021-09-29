@@ -18,7 +18,15 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-
+ 
+ An agitation of the air,  
+A perturbation of the light  
+Admonished me the unloved year  
+Would turn on its hinge that night.  
+ 
+I stood in the disenchanted field  
+Amid the stubble and the stones,  
+ 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
